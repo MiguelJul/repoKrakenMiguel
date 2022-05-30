@@ -4,4 +4,6 @@ miguel
 (C) Benvinguda a la branca02 Miguel
 (D) Modificació 02 Main Miguel
 (E) Afegim imatge a branca01 Miguel
+(F) Afegim imatge a branca02 Miguel
+
 
