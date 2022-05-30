@@ -1,3 +1,6 @@
 miguel
+(A) Benvinguda a la branca01 Miguel
 (B) Modificació 01 Main Miguel
 (D) Modificació 02 Main Miguel
+(E) Afegim imatge a branca01 Miguel
+
